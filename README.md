@@ -3,10 +3,15 @@ J’ai écrit un code Python qui génère des exercices types sur les fonctions 
 
 
 
-- Problème 1997 : 
-Je me suis inspiré d'un exercice du baccalauréat de 1997 et j'ai crée le docuement Python pour en fournir des similaires, tout en vérifiant l'exactitude mathématique.
+## Problème Classique Fonction + Annexe : 
+En Python, 
+Je propose de crée un exercice avec une fonction phi(x) strictement monotone, l'élève doit trouver un alpha unique tel que phi(alpha) = 0 
+Et je crée une fonction f qui a une dérivée du même signe que phi(x). 
+Exercice classique. 
 
-- Polynôme de degré 3, 4 ou 5. 
+
+
+## Polynôme de degré 3, 4 ou 5. 
 Beaucoup plus simple que le problème de 97. Ici, je propose aux élèves de factoriser un polynomes de degré 3, 4 ou 5.
   - Si le polynôme est de degré 3, il y a au moins une racine évidente.
   - Si le polynôme est de degré 4, il y a au moins deux racines évidente ou une racine double.
